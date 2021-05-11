@@ -20,7 +20,7 @@
     "expo": "~37.0.3",
     "expo-screen-orientation": "~1.0.0",
     "joi-browser": "^13.4.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "metro-config": "^0.59.0",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
